@@ -1,347 +1,223 @@
 # LVN-
 buat belajar
-<!DOCTYPE html>
+<!doctype html>
 <html lang="id">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Panduan Bermain Geometry Dash</title>
-
+ <head><script>window["__codeletBootstrap__"]=JSON.parse('{"A":"A","B":"20261110-00-174c179","C":{"ABeeZee":"YADK31-VBBc,1","Abel":"YAHO2Ehol3g,0","Abhaya Libre":"YAFdJvwa-l0,0","Abril Fatface":"YACgEZbkUVE,0","Aclonica":"YAHO2OEKYj0,0","Acme":"YAHO2Gflqzo,0","Actor":"YAHO2N0IV_4,0","Adamina":"YAHO2Ko8ddg,0","Advent Pro":"YAFdJvNZdCk,0","Afacad":"YAHO2HaK_fU,0","Afacad Flux":"YAHO2DjbA6Y,0","Agrandir":"YAFdJpYuLss,0","Aileron":"YAFdJn5d8s0,0","Akshar":"YAGWNF0jApg,0","Alata":"YAD1aLikJo8,0","Albert Sans":"YAHO2HRfeh4,0","Alegreya":"YAFdJs07v-8,0","Alegreya Sans":"YAFdJvgJ5TU,0","Alegreya Sans SC":"YAFdJuaTEaM,0","Alegreya SC":"YACgEen8jXo,0","Aleo":"YAFdJg_txOU,0","Alex Brush":"YAE2gr0Mbng,0","Alexandria":"YAGVt-AWBcU,0","Alfa Slab One":"YACgEYS9sJU,0","Alice":"YALBszUSD-E,0","Allison":"YAG5KfE49h8,0","Allura":"YACgEap1YR0,0","Almarai":"YAFdJuZe0mI,0","Almendra":"YAHO2Dyhotk,0","Alumni Sans":"YAHO2DByoho,0","Amaranth":"YACgEaBTFMQ,0","Amatic SC":"YACgEbSBm0k,0","Amiri":"YAEWgjWFb1M,0","Amiri Quran":"YAHO2Enz6cg,0","Amita":"YADK309xYYo,1","Andika":"YACkoFAye4w,0","Anek Bangla":"YAGVuloYrvI,0","Anek Gujarati":"YAHO2NTD_LM,0","Anek Latin":"YAHO2C6lVnU,0","Anek Telugu":"YAHO2KVu8lI,0","Angsana New":"YAFcflTHDNQ,0","Anonymous Pro":"YACgEV9owk4,0","Antic Slab":"YAHO2HJeTP0,0","Anton":"YACgEcYqQ-A,0","Antonio":"YAFdJjZxcpY,0","Anuphan":"YAHO2IhZ4E0,0","Anybody":"YAHO2MTsics,0","Aptos":"YAGi2jFvvq4,1","Arapey":"YADK32AK2Uk,1","Architects Daughter":"YACgEc9BFCs,0","Archive":"YAD0s3O1iG4,1","Archivo":"YAHO2-t-jNE,0","Archivo Black":"YACgEZulLoA,0","Archivo Narrow":"YACgEa-oJH8,0","Aref Ruqaa":"YAHO2NMqGdM,0","Arial":"YAGyDvJ_4Ts,0","Arimo":"YACgEZ1cb1Q,0","Arsenal":"YADK3_DWcOc,0","Arsenal SC":"YAHO2BfKrb0,0","Arvo":"YACgEf17hXM,0","Asap":"YAFdJr0OaFw,0","Asap Condensed":"YAD1fmY3NpE,0","Assistant":"YAFdtfahXt8,0","Atkinson Hyperlegible":"YAFge7Z-F6s,0","Atkinson Hyperlegible Next":"YAHO2IeQVB0,0","Audiowide":"YAHO2MsoafU,0","Avenir":"YAFcfmNq6UY,0","Azeret Mono":"YAHO2EIdDP0,0","B612":"YAD1b-1Hfc8,0","Bacasime Antique":"YAHO2JjJq4o,0","Bad Script":"YADK31ojH6A,1","Bagel Fat One":"YAFyG3A11Bw,0","Bai Jamjuree":"YAFdJjI5olU,0","Ballet":"YAGXhJ7-dYY,0","Baloo 2":"YAHO2IcQUcM,0","Baloo Bhaijaan 2":"YAHO2NwTj3Y,0","Baloo Da 2":"YAHO2LicHPY,0","Balsamiq Sans":"YAE3C_w4eo8,0","Bangers":"YAD5qTdjGKo,1","Barlow":"YAFdJsyuOPM,1","Barlow Condensed":"YAFdJljEuFc,0","Barlow Semi Condensed":"YAFdJu55qXI,0","Baskervville":"YAHO2JTYNKo,0","Beau Rivage":"YAHO2NDDGu0,0","Bebas Neue":"YACgESME5ew,0","Belanosima":"YAHO2KW8vyU,0","Bellefair":"YADSJ8TFXwA,0","Belleza":"YADK3w_fTc4,0","BenchNine":"YAHO2Gl7yMc,0","Berkshire Swash":"YACgEa7uPMI,0","Besley":"YAHO2BTXWYc,0","Beth Ellen":"YAD1b5m4a2U,0","Bevan":"YACkoDaMIbc,0","Big Shoulders Display":"YAFdJs8L2aw,0","BioRhyme":"YAHO2OnVvkA,0","Birthstone":"YAGXhLyeE6I,0","Biryani":"YAFdtZ_PRAs,0","Bitter":"YACkoOF0Xck,0","BIZ UDPGothic":"YAGWY3VAK4Q,0","Black Mango":"YAFdJkJYP7I,1","Black Ops One":"YACgEaY4FIU,0","Blinker":"YAFdJoBYX9o,0","Bodoni Moda":"YAHO2C7VUJE,0","Boogaloo":"YAHO2MTwH5g,0","Borel":"YAFyL1DOvfo,0","Bowlby One":"YAHO2EunPos,0","Bowlby One SC":"YAHO2J38FUs,0","Brake":"YAECFhPpDI8,0","Bree Serif":"YACkoD1yZN0,0","Bricolage Grotesque":"YAFyMcdwzpc,0","Brightwall":"YAEl49DnZBU,0","Bubblegum Sans":"YAHO2JdFc_U,0","Bungee":"YALBszL9wLA,0","Bungee Shade":"YACkoPYyrRk,0","Cabin":"YAFdJnEgsb0,0","Cabin Condensed":"YAHO2F-FVVw,0","Cairo":"YAFdtXpDzlQ,0","Caladea":"YAD1hHx0kVU,0","Calibri":"YAFcfhdOoGk,0","Calistoga":"YAD1aIFxe3I,1","Cambria":"YAFcfgNlM2Y,0","Cantarell":"YAHO2LSCGX4,0","Canva Sans":"YAFdJjTk5UU,1","Canva Sans Display":"YAFTjyMT8Hc,0","Caprasimo":"YAHO2PYTkbo,0","Capriola":"YALBs4liG7k,0","Cardo":"YACkoGIT9qo,0","Carlito":"YACkoIZXsrc,0","Carter One":"YACgEZJ1Flw,0","Castoro":"YAHO2cDcmVM,0","Catamaran":"YAFdJhPTLAc,0","Caveat":"YALBs2ploWQ,0","Caveat Brush":"YALBs8ZVRhw,0","Cedarville Cursive":"YAHO2UrHGFQ,0","Chakra Petch":"YAD1fCkY3IQ,0","Changa":"YAFdJtbG8fw,0","Changa One":"YAHO2WdsbtM,0","Chango":"YADK37RW0po,0","Charis SIL":"YAGvf-G3GGU,0","Charm":"YAD1b_s4o-w,0","Chelsea Market":"YAHO2UOd5sY,0","Cherry Bomb One":"YAFyMfi5fyQ,0","Chewy":"YACgEZfALnA,0","Chivo":"YAHO2WvGfDs,0","Chivo Mono":"YAHO2Qd3y5g,0","Chonburi":"YALBsz_RTwU,0","Cinzel":"YACgEeV8bIQ,0","Cinzel Decorative":"YAEe9XbWpNs,0","Circe":"YAEw10H5958,0","Clear Sans":"YAFdJoLIdPI,0","Climate Crisis":"YAFdJnbiwgQ,0","Cocomat Pro":"YAFdJu9rg-E,0","Coiny":"YACkoOrpjtg,0","Comfortaa":"YAFdJoWmhxU,0","Comic Neue":"YAHO2VMiyZo,0","Coming Soon":"YACgEQDqBLk,0","Commissioner":"YAHO2RRI-KE,0","Concert One":"YAFyG1vOkaw,0","Consolas":"YAFcfu6YYdE,0","Cookie":"YAHO2TxA9Mk,0","Corben":"YADK3waYnkQ,2","Cormorant Garamond":"YAFdJhX-538,0","Cormorant Infant":"YAHO2cgbXjc,0","Cormorant SC":"YAFdJg7KuRM,0","Cormorant Unicase":"YAHO2b4ohVo,0","Courgette":"YACgEU5nS9M,0","Courier New":"YAGzXiGs0_8,0","Courier Prime":"YAD1aFjegN8,0","Cousine":"YADK35VyDYU,0","Crete Round":"YAHO2Uu9SvI,0","Crimson Pro":"YAFdJsEGkW0,0","Crimson Text":"YAHO2RsfBzg,0","Cuprum":"YACkoB3fESg,0","Cutive Mono":"YAHO2cov6H4,0","Damion":"YAHO2SxDErM,0","Dancing Script":"YALBs2pfuW0,0","Darker Grotesque":"YAD1acp_tgc,1","DejaVu Sans":"YAFdtfpl0Yc,0","Delius":"YAHO2f1B8B4,0","Dhurjati":"YAHO2RElIME,0","Didact Gothic":"YALBs-mIj2o,0","DM Mono":"YAHO2SGpw0w,0","DM Sans":"YAD1aU3sLnI,0","DM Serif Display":"YAD1aYG82rc,0","Domine":"YAHO2bbCOA4,0","Dongle":"YAGXDU1dmuc,0","Doppio One":"YAHO2ckhWaI,0","Dosis":"YAFdte3F-n0,1","DotGothic16":"YAHO2fxQNHM,0","DynaPuff":"YAFyMRnxBDs,0","East Sea Dokdo":"YAHO2V39uyM,0","Eater":"YAHO2VpLF0c,0","EB Garamond":"YAFdJtfMD6Y,0","Economica":"YACgEeIOo5w,0","Eczar":"YAFdJrnVElk,0","Edo":"YADoUIDNzaE,1","El Messiri":"YAFdJoZarj8,0","Encode Sans":"YAHO2R-vLyo,0","Encode Sans Condensed":"YAHO2RQWhbg,0","Epilogue":"YAHO2WWHRqI,0","Exo":"YAHO2c15ncY,0","Exo 2":"YAFdJor4M6A,1","Faculty Glyphic":"YAHO2ZuH1NQ,0","Fahkwang":"YAFdJp0SJos,0","Familjen Grotesk":"YAHO2ZriIzU,0","Faustina":"YAFdJnqy8Oc,0","Figtree":"YAHO2b-mV7A,0","Fira Code":"YAFdJsxBlTg,0","Fira Mono":"YAHO2bTKfjg,0","Fira Sans":"YAFdJnJKOPE,0","Fira Sans Condensed":"YAHMLJN-FcA,0","Fira Sans Extra Condensed":"YAHMLGqUb6Q,0","Fjalla One":"YAHO2VMyTKw,0","Fondamento":"YAHO2X_okmA,0","Forum":"YACgEcnnqB4,0","Fragment Mono":"YAHO2ZlYXZc,0","Francois One":"YADK3zbC6RM,0","Frank Ruhl Libre":"YAFdJiGIKxQ,0","Fraunces":"YAFdJpU7Kkk,0","Fredoka":"YACgEZml080,0","Frutiger":"YAFcf7IGSfk,0","Fugaz One":"YAHO2f5L5K0,0","Funnel Display":"YAHO2TmVuEs,0","Funnel Sans":"YAHO2R0FK5U,0","Futura":"YAFcfgcNhWk,3","Gabarito":"YAHO2cD3JmI,0","Gaegu":"YAFdJj615Ls,0","Gamja Flower":"YADK39n_eyc,0","Gantari":"YAHO2WveuBo,0","Garamond":"YAFcfhlhK9c,0","Gasoek One":"YAFyMaznfGo,0","Geist":"YAHO2SfKS30,0","Geist Mono":"YAHO2XOe8v8,0","Gelasio":"YAHO2e426-k,0","Gentium Book Plus":"YAHO2b-adyU,0","Geologica":"YAHMLpZ3y5c,0","Geom":"YAHMLFz7unQ,0","Georama":"YAHO21l9KR8,0","Georgia":"YAGzXkO0pEM,0","GFS Didot":"YADK39vXpyU,0","Gilda Display":"YADK34sD2QM,0","Gill Sans":"YAFcfnt9wqI,0","Gilroy":"YAFcf0f10mQ,0","Glacial Indifference":"YACgETiWKS8,0","Gloock":"YAHO2WVhd0Q,0","Gloria Hallelujah":"YALBs50JjRs,0","Gochi Hand":"YACgEWWPgRQ,0","Golden Hopes":"YAHNdVsGdn0,0","Goldman":"YAHO2TATES8,0","Golos Text":"YAHO2QlqAQk,0","Google Sans":"YAHO2dYZ4Uw,0","Google Sans Code":"YAHO2XdQwlA,0","Google Sans Flex":"YAHO2e8mtck,0","Gotham":"YAFcfr0ZwUA,0","Gotu":"YAEZNa_UrWs,0","Goudy Bookletter 1911":"YAHO2X7CqQQ,0","Gowun Batang":"YAGXDQtk-ic,0","Gowun Dodum":"YAGXDZ921io,0","Graduate":"YACgEajwz7Y,0","Grandstander":"YAHO2bN2hd8,0","Gravitas One":"YAHO2WtqHRw,0","Great Vibes":"YACgEX27qLg,0","Grenze":"YAFdJpFWOZM,0","Grenze Gotisch":"YAHO2fI_o94,0","Gruppo":"YACgEbcz8MU,0","Gudea":"YAHO2WlVs30,0","Hahmlet":"YAGXDTqs4Ac,0","Hammersmith One":"YACgEWNFnT4,0","Handlee":"YAHO2U9C-xI,0","Hanken Grotesk":"YAHO2VB9G0I,0","Heebo":"YAFdJqqaebw,0","Helvetica":"YAFcf7zkXN0,0","Henny Penny":"YAHO2dlXoyw,0","Hepta Slab":"YAHO2TWtyXA,0","Hind Guntur":"YAFdJq1FbIc,0","Hind Madurai":"YAFdJtsMgQk,0","Hind Siliguri":"YAFdJodBWQk,0","Hind Vadodara":"YAFdJrnuAas,0","HK Grotesk":"YAFdJsjyMsM,0","Homemade Apple":"YADK3zBTjLs,0","Host Grotesk":"YAHO2VztvdY,0","Hubot Sans":"YAHO2cDVt0E,0","Huninn":"YAHO2dG1YxU,0","Ibarra Real Nova":"YAD1aDS1Jq8,0","IBM Plex Mono":"YAFdJkmvhGI,0","IBM Plex Sans":"YAFdJgT0SHI,0","IBM Plex Sans Arabic":"YAGVuEYCNg0,1","IBM Plex Sans Condensed":"YAFdJrPBof8,0","IBM Plex Sans JP":"YAGWY6rvaqo,0","IBM Plex Sans KR":"YAGXDbUrwEo,0","IBM Plex Sans Thai":"YAFdJkdZC28,0","IBM Plex Serif":"YAFdJt16xgA,0","IM Fell English":"YAHO2QB0QVo,0","IM Fell English SC":"YACgERmrc6I,0","IM Fell French Canon":"YAHO2bMvABs,0","Impact":"YAFcfnjI7Vk,0","Inclusive Sans":"YAGzRvSP2H0,0","Inconsolata":"YAHO2SpO-5g,0","Indie Flower":"YAHO2aaUih8,0","Instrument Sans":"YAHO2bKyaSQ,0","Instrument Serif":"YAHFeOnZNEk,0","Inter":"YAFdJvSyp_k,3","Inter Tight":"YAHO2Wv04Hw,0","Istok Web":"YAHO2XNFLkI,0","Italiana":"YAHO2Toik_w,0","Italianno":"YADK33wZXP4,1","Itim":"YAE0Z3ly4AQ,0","Jacques Francois":"YAHO2a5g66Q,0","Jersey 10":"YAHO2QXCPBA,0","Jersey 25":"YAHO2b0HdSo,0","JetBrains Mono":"YAFdJksXcAk,0","Josefin Sans":"YAFdJjvw9Ps,0","Josefin Slab":"YACgEQmaEIc,0","Jost":"YAHO2TSelXg,0","Jua":"YADK3-gZSDU,0","Judson":"YAHO2Te3_As,0","Julius Sans One":"YACgET-7cBI,0","Jura":"YAFdJmtyccY,0","Kaisei Decol":"YAGWY5xJxfk,0","Kalam":"YAFdJrEg2ic,0","Kanit":"YAHO2TvSf7E,0","Kantumruy Pro":"YAHO2SVqwqY,0","Karantina":"YAHO2TVXfmM,0","Karla":"YAHO2V2NSXM,0","Kaushan Script":"YACgEbGmrJs,0","Khand":"YAFdJm18w3g,0","Khula":"YAFdJvaOkWI,0","Kiwi Maru":"YAFdJmm1njU,0","Klee One":"YAHO2dadxts,0","Knewave":"YACgEYSBEEA,0","Kodchasan":"YAFdJmfmzeo,0","Kosugi Maru":"YAEhL82apSM,0","Krona One":"YAHO2byEKN4,0","Krub":"YAFdJl9ACwk,0","Kulim Park":"YAHO2VNx1jc,0","Kumbh Sans":"YAHO2UjzjpM,0","La Belle Aurore":"YAHO2QKdLHU,0","Lalezar":"YACkoB188Y0,0","Lato":"YAFdJuFCnaw,0","League Gothic":"YACgEZ1OEPI,0","League Spartan":"YACgEcnJpjs,0","Leckerli One":"YAGX4ddZAAg,0","Lemonada":"YAFdtQVfQCk,0","Lexend":"YAHO2SCkHoU,0","Lexend Deca":"YAD9UdTHECk,0","Lexend Exa":"YAD9UUZHL7I,0","Lexend Giga":"YAD9UYAqrOc,0","Lexend Mega":"YAD9UdrjgZw,0","Lexend Zetta":"YAD9UYrErMw,0","Libre Baskerville":"YACgEUFdPdA,0","Libre Bodoni":"YAHO2fbN094,0","Libre Caslon Display":"YAHO2XhLmt0,0","Libre Caslon Text":"YAHO2USylHk,0","Libre Franklin":"YAFdJr3SNlU,1","Lilita One":"YACgEblklxo,0","Limelight":"YACgEUpkTXE,0","LINE Seed JP":"YAHO2d8yXa4,0","Literata":"YAD1b0SpOHQ,0","Literaturnaya":"YAEw2PHBjL0,0","Livvic":"YAFdJiLU_Ko,0","Lobster":"YAD8SnSjSFI,0","Lobster Two":"YACgEesdoec,0","Londrina Solid":"YAFdJnyMeQE,0","Lora":"YACgEXvxf8Q,0","Love Ya Like A Sister":"YAHO2WqclmE,0","Lucida Console":"YAFcfpZCfh8,0","Luckiest Guy":"YADK4PnlFRs,0","Lusitana":"YAHO2SveFfM,0","LXGW WenKai TC":"YAHO2ehQ5_o,0","M PLUS 1p":"YAHO2fozO7I,0","M PLUS 2":"YAHO2RUGZcQ,0","Ma Shan Zheng":"YAD1b3yES34,0","Mada":"YAFd-HxC1Y0,0","Maitree":"YAFdJh4v5pY,0","Mali":"YAFdJh7OuNE,0","Manrope":"YAHO2b2feC4,0","Mansalva":"YAD1aZCCYU8,1","Marcellus":"YADK4L2nGbg,0","Marck Script":"YALBs9DBETo,0","Marhey":"YAGVt3FsiJE,0","Martel":"YAFdtY7FRH8,1","Martian Mono":"YAHO2YhUMkk,0","Mate":"YAHO2eaPuMk,0","Maven Pro":"YAFdJgCyb_c,0","Mea Culpa":"YAHO2UQx4WU,0","MedievalSharp":"YAHO2XoH9qQ,0","Megrim":"YACgEQu0pLY,0","Meiryo":"YAGmJPEz0BM,0","Merienda":"YAGXhISLJkY,0","Merriweather":"YACgEXvHxxs,0","Merriweather Sans":"YAFdJorZgto,1","Michroma":"YADK4IYX8vY,0","Miriam Libre":"YADK4A2U8KA,0","Mitr":"YAFdJh-DKf0,0","Mona Sans":"YAHO2XGz2BM,0","Monda":"YADK34lACd0,1","Monoton":"YALBs_hWWG8,0","Mont":"YAFdJgul-2U,0","Montserrat":"YAFdtQi73Xs,0","Montserrat Alternates":"YAHO2d5URdI,0","Monument":"YAFdJgp7PFE,0","Mooli":"YAHO2QudnvU,0","More Sugar":"YAFdJkVWBPo,1","Moul":"YADK4IOwXpw,0","Mountains of Christmas":"YAHO2f6R-YA,0","Mr Dafoe":"YACgEbw4BXM,0","Mrs Saint Delafield":"YAHO2Tnt53k,0","Ms Madi":"YAHO2SBc4rI,0","Mukta":"YAFdJjsZaSM,0","Muli":"YAFdtZAC0Mk,0","Mulish":"YAHO28rytyw,0","Nanum Myeongjo":"YAFdJqiu4VY,0","Neucha":"YAEkTBQffFg,0","Neuton":"YAFdtcDBvdA,0","New Rocker":"YAHO2YI8rWg,0","News Cycle":"YACkoEMGWek,0","Nixie One":"YACgEUtNgZc,0","Nothing You Could Do":"YAHO2WqRm_c,0","Noticia Text":"YACkoDm0xlE,0","Noto Color Emoji":"YAGumpcTCok,0","Noto Kufi Arabic":"YACkoGW2dTA,0","Noto Naskh Arabic":"YACkoI8Oj1c,0","Noto Nastaliq Urdu":"YAGU_Q5u0w4,0","Noto Sans":"YACkoCjjZNk,0","Noto Sans Armenian":"YACkoI5u7HA,0","Noto Sans Bengali":"YAFdJjnhMdI,0","Noto Sans Canadian Aboriginal":"YAHK3L_wQZM,0","Noto Sans Display":"YAHO2eyZBeY,0","Noto Sans Ethiopic":"YAHO20DfUMM,0","Noto Sans Georgian":"YACkoFKxqWs,0","Noto Sans Gujarati":"YACkoEDaawU,0","Noto Sans HK":"YAHO2fCytzw,0","Noto Sans JP":"YAFdJiHXlcI,0","Noto Sans Kannada":"YACkoIujelo,0","Noto Sans Khmer":"YACkoFdRIJM,0","Noto Sans KR":"YAGsojZj-RQ,0","Noto Sans Lao":"YAHO2f6jVpw,0","Noto Sans Lao Looped":"YAHO2TSQjpA,0","Noto Sans Malayalam":"YACkoMzSo98,0","Noto Sans Mono":"YAHO2TFVtN0,0","Noto Sans Myanmar":"YACkoPHEdMk,0","Noto Sans Oriya":"YAHO2TmiA1I,0","Noto Sans SC":"YAHO2hDCDFM,0","Noto Sans Sinhala":"YACkoJiU_Ak,0","Noto Sans Symbols":"YAHO2n0Zh0w,0","Noto Sans Tamil":"YAHO2r9jkew,0","Noto Sans TC":"YAHO2pzGHBE,0","Noto Sans Telugu":"YAHO2uFAQs4,0","Noto Serif":"YACkoGNq-XY,0","Noto Serif Bengali":"YAGVuu_j8c8,0","Noto Serif Devanagari":"YAGWNWUpY9s,0","Noto Serif Display":"YAFdJllHsUM,0","Numans":"YAHO2nkeXPA,0","Nunito":"YAFdJoNRMmU,1","Nunito Sans":"YAFdtQJYB9w,1","Old Standard TT":"YAHO2lhtDcg,0","Oleo Script":"YACgEQQ14jI,0","Onest":"YAHO2kaArOY,0","Open Sans":"YAFdJt8dAY0,1","Open Sans Condensed":"YAD7Rf0lmm4,1","Open Sans Hebrew":"YAFdJlARYMY,0","Optima":"YAFcf0Fltlg,0","Oranienbaum":"YALBs0MvhmA,0","Orbit":"YAFyMQm0Z54,0","Orbitron":"YAHO2tXXH_o,0","Oswald":"YACgEQY10lw,0","Outfit":"YAHO2nVlg14,0","Overpass":"YAFdJhmdIMM,1","Oxanium":"YAHO2kINDn0,0","Oxygen":"YAHO2nOU31A,0","Pacifico":"YADLjORQ1u4,0","Padauk":"YACkoMjU4UU,0","Palatino":"YAGLy64uiS8,4","Pangolin":"YADK4DH4-fM,0","Parisienne":"YACgERSYqTw,0","Parkinsans":"YAHO2j-ZSEo,0","Passion One":"YAFdJo9cFec,0","Pathway Gothic One":"YACkoMQo7Mc,0","Patrick Hand":"YAHO2swKcgg,0","Patua One":"YAHO2qRZWLE,0","Paytone One":"YALBs8J6By4,0","Perandory SemiCondensed":"YAFJsrsM0TY,0","Permanent Marker":"YACgEcB-r-s,0","Petrona":"YADK4PUbnVg,1","Philosopher":"YAEkTCvkg7Q,0","Pinyon Script":"YACgEQzTJgs,0","Pirata One":"YALBs3j2Xx0,0","Pixelify Sans":"YAHO2v5ARTA,0","Play":"YADK4EFto8o,0","Playball":"YAHO2hWLQJ0,0","Playfair Display":"YAFdJhem5V8,1","Playfair Display SC":"YACgESE7eJQ,0","Playpen Sans":"YAGLNo9uX4s,1","Playwrite VN":"YAHO2_bSM7Y,0","Plus Jakarta Sans":"YAHO2gdhi18,0","Poiret One":"YAHO2nweLas,0","Pontano Sans":"YAHO2t91rWw,0","Poppins":"YAFdJjbTu24,1","Prata":"YACgES4qGnk,0","Press Start 2P":"YAFyGr-8pmQ,0","Pridi":"YAFdJmJ3gqA,0","Prompt":"YAFdJmA6sOY,0","Proxima Nova":"YAFcfjveRFU,0","Proxima Nova Condensed":"YAFcfiSm_SA,0","Proza Libre":"YAHO2nv0NKc,0","PT Mono":"YAHO2lnK_7w,0","PT Sans":"YACgEYbsV-E,0","PT Sans Caption":"YAHO2oZpTQc,0","PT Sans Narrow":"YAHO2glZymI,0","PT Serif":"YACgEcU7Qg4,0","Public Sans":"YAFdJj8NdaU,1","Pyidaungsu":"YACkoGGC7sA,0","Quantico":"YAHO2me4bVc,0","Quattrocento":"YACgEcL5b3s,0","Quattrocento Sans":"YAHO2vuaC0Y,0","Questrial":"YADK4LSvvyE,1","Quicksand":"YAFdJpYtCxE,1","Racing Sans One":"YACgEbcqMPM,0","Radio Canada":"YAHO2qxyljs,0","Radio Canada Big":"YAHO2r7P8wg,0","Rajdhani":"YAFdJoWaWgo,0","Raleway":"YAFdJhmxbVQ,1","Ramabhadra":"YACkoN_hhSs,0","Rammetto One":"YAHO2nAqWuQ,0","Rasa":"YAFdJg-9rGY,0","Readex Pro":"YAGVt3RBO3c,0","Recursive":"YAHO2oZn01g,0","Red Hat Display":"YAD1bzs0p0Y,0","Red Hat Mono":"YAHO2gB0kV8,0","Red Hat Text":"YAHO21kkNWg,0","Reddit Sans":"YAHO2kKAR-8,0","Reem Kufi":"YADSJ0ceOYQ,0","Reenie Beanie":"YAHO2s4qTnk,0","Rethink Sans":"YAHO2q9_FzY,0","Righteous":"YAHO2oo4-So,0","Roboto":"YACgEev4gKc,0","Roboto Condensed":"YACgEan-tYE,0","Roboto Flex":"YAHO2nqK4E8,0","Roboto Mono":"YAFdJkvp3-k,0","Roboto Slab":"YAFdJswIKAg,0","Rock Salt":"YAHO2vFSVxE,0","Rockwell":"YAFcfyVZnN0,0","Rokkitt":"YAFdJnlBl3o,0","Ropa Sans":"YACkoCA_LhY,0","Rowdies":"YAFyL2wl4FI,0","Rozha One":"YACkoMIfZVA,0","Rubik":"YAFdJsMWVVc,0","Rubik Dirt":"YAFyHRD_ZDY,0","Rubik Mono One":"YAHO2qtMuC0,0","Rubik Wet Paint":"YAHO2mLD_X0,0","Ruda":"YAFdJuuBNyM,1","Rufina":"YADK4FKO8Lg,0","Rye":"YACgEdQP21k,0","Sacramento":"YACgEf5ivwU,0","Saira":"YAFdJk33d3s,0","Saira Condensed":"YAFdJuBuAxg,0","Saira Extra Condensed":"YAFdJiQUvWc,0","Saira Semi Condensed":"YAHO2gfd5g8,0","Saira Stencil One":"YAD1aV1l2HE,0","Sanchez":"YACgEbBJLy8,0","Sarabun":"YAFdJssSnME,0","Sarala":"YADK4LF5xeY,0","Satisfy":"YACgEf5XTk0,0","Sawarabi Mincho":"YAD1faq7yjk,0","Scheherazade New":"YAHO2sxcjiY,0","Schibsted Grotesk":"YAHO2sWydRk,0","Segoe Script":"YAF3uTF1s5I,0","Segoe UI":"YAHNdRD1Klw,0","Sen":"YAHO2h5vrRE,0","Shadows Into Light":"YAHO2tztN1k,0","Shantell Sans":"YAFyGytbxDc,0","Share Tech":"YAHO2q4NPs0,0","Share Tech Mono":"YAHO2oHio98,0","Shippori Mincho":"YAGWZNRJkO8,0","Shippori Mincho B1":"YAGWZJnXF8c,0","Shrikhand":"YACkoEA0Kc0,0","Signika":"YACgEfiK7GI,0","Signika Negative":"YAHO2rWYEng,0","Silkscreen":"YAHO2rdlQ_o,0","Sintony":"YAHO2kIBPTg,0","Skranji":"YAHO2uPivlQ,0","Slabo 13px":"YAHO2hvaP1I,0","Slabo 27px":"YAHO2n--yeE,0","Smooch Sans":"YAHO2tPdb20,0","Snell Roundhand":"YAFcf-RMpoo,0","Sniglet":"YACgEUJSCy8,0","Sofia":"YAHO2kq3qHg,0","Sofia Sans":"YAHMLUINeco,0","Sofia Sans Condensed":"YAHMLQmSo-Y,0","Sofia Sans Extra Condensed":"YAHMLV0fp0c,0","Solway":"YAD1fewp_mA,3","Sora":"YAHO2rDTR1E,0","Sorts Mill Goudy":"YADK4Fi0R2c,0","Source Code Pro":"YAHO2tzIJbg,0","Source Sans 3":"YAG4lO1Mj10,0","Source Sans Pro":"YACgEQzTv38,0","Source Serif Pro":"YACgEfdj394,0","Space Grotesk":"YAHO2sjPCSM,0","Space Mono":"YADW1-vpsoc,0","Special Elite":"YACgEYVlm9Q,0","Special Gothic Expanded One":"YAHO2oaS0m0,0","Spectral":"YAHO2rVUHIM,0","Spectral SC":"YAHO2gamQtc,0","Spline Sans":"YAHO2rZC9CE,0","Squada One":"YADK4PDlAAM,0","Sriracha":"YALBs4sJbXs,0","Staatliches":"YAD1bzJCL-s,0","Stardos Stencil":"YADK4Mu_Xj0,1","STIX Two Text":"YAHO2joycuk,0","Style Script":"YAGLy2PgdK0,0","Sue Ellen Francisco":"YADK4OIbCxo,0","Suez One":"YACkoJMi7_c,0","Sunflower":"YAFdJtJhp3I,1","Syncopate":"YAHO2iXpgDY,0","Syne":"YAHML9oLRPc,0","Tahoma":"YAFcfipOFgg,0","Tajawal":"YAFdJg45t1g,0","Tangerine":"YADK4L8oUVI,0","TASA Orbiter":"YAHO2umh_2o,0","Taviraj":"YAFdJjquxqU,0","Teko":"YAFdJsF6lbU,0","Tektur":"YAHMLdkk1tM,0","Tenor Sans":"YACgEVY5j_w,0","TikTok Sans":"YAHO2of1C4s,0","Tilt Warp":"YAHO2uqld84,0","Times":"YAGzXW3gftg,0","Times New Roman":"YAGzXW3gftg,0","Tinos":"YACkoJyNZF4,0","Tiro Bangla":"YAGVuiG7jnE,0","Tiro Devanagari Hindi":"YAGWNCjUq0o,0","Tiro Devanagari Sanskrit":"YAGWNHzN1is,0","Titan One":"YAHO2v8eA3A,0","Titillium Web":"YAFdtTOE9xo,0","Tomorrow":"YAFdJlW65k4,0","Traditional Arabic":"YAGLszSchGc,0","Trebuchet MS":"YAFcfrglpVA,0","Trocchi":"YACgEV-yq04,0","TT Backwards Script":"YAEnTERS7-o,0","Turret Road":"YAHO2pKQLYQ,0","Ubuntu":"YACgERDU--Q,0","Ubuntu Condensed":"YAHO2nCaahY,0","Ubuntu Mono":"YAHO2g6B-Uo,0","Ubuntu Sans":"YAHO2kypvWc,0","Ultra":"YACgEWHSPx0,0","Unbounded":"YAHO2rkdmWY,0","Uncial Antiqua":"YAHO2gmfDAs,0","Unica One":"YALBs74Pdjc,0","UnifrakturCook":"YAHO2srzKxY,0","UnifrakturMaguntia":"YACgEZRHDPA,0","Unna":"YADK4PtOh7E,0","Urbanist":"YAHO2o1IFy0,0","Varela":"YAHO2gPi4IU,0","Varela Round":"YALBs2IK6rw,0","Vazirmatn":"YAHO2z1lH5c,0","Verdana":"YAGzXTctYtQ,0","Vidaloka":"YACgEdRnAX0,0","Viga":"YAHO2v8Lzbg,0","Volkhov":"YAHO2uWq-qg,0","Vollkorn":"YAFdJli9wSA,0","VT323":"YACgEYI9BCI,0","Walter Turncoat":"YADK4Mm5Elo,0","WindSong":"YAGXhGUyKSQ,0","Wix Madefor Display":"YAHO2o-Qfis,0","Wix Madefor Text":"YAHO2rU16Qc,0","Work Sans":"YAGXhLOKv44,0","Yanone Kaffeesatz":"YAFdtbpuM0E,0","Yantramanav":"YAFdJuZAcfY,0","Yatra One":"YACkoJ228Ho,0","Yellowtail":"YACgEYG4kG4,0","Yeseva One":"YALBs4GWnJw,0","Yesteryear":"YALBs99Qer0,0","Ysabeau":"YAHMLjcdG48,0","Ysabeau Office":"YAHO2uUYDYI,0","Yuji Boku":"YAFGHcN5e_Y,0","Yusei Magic":"YAEhL8RNAMk,0","Zain":"YAHO2lC1Xkw,0","Zalando Sans":"YAHO2k5OK-M,0","Zalando Sans Expanded":"YAHO2h6OPds,0","Zen Kaku Gothic Antique":"YAHO2u8F_xk,0","Zen Kaku Gothic New":"YAHO2tS_yps,0","Zen Maru Gothic":"YAFdJgMrcdw,0","Zen Old Mincho":"YAHO2tMwaEs,0","Zeyada":"YAHO2lP62P0,0","Zilla Slab":"YAFdJpPotmI,0"}}');</script><script src="/_sdk/b5c5f739e0509fdc.telemetry_sdk.js" integrity="sha512-yZZ4O1pF2RcP7qgzuOj1sN37odSBP/0Jgb944TIUpGY7gFv7LHX/W07vcqCPPqNBIt8JlEG/wX6Of/rqa/QYJg=="></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cara Main Geometry Dash — Panduan Pemula</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/lucide@0.577.0/dist/umd/lucide.min.js"></script>
   <style>
-    :root {
-      --bg: #0d1024;
-      --card: #171b3d;
-      --card-light: #22285a;
-      --primary: #00e5ff;
-      --secondary: #ff3cac;
-      --text: #f5f7ff;
-      --muted: #b8bddb;
-      --success: #63ff9d;
-    }
-
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    body {
-      font-family: Arial, sans-serif;
-      background:
-        radial-gradient(circle at top left, #252b72 0, transparent 35%),
-        linear-gradient(135deg, var(--bg), #090b18);
-      color: var(--text);
-      line-height: 1.6;
-      min-height: 100vh;
-    }
-
-    header {
-      text-align: center;
-      padding: 70px 20px 50px;
-    }
-
-    header h1 {
-      color: var(--primary);
-      font-size: clamp(2rem, 6vw, 4rem);
-      text-shadow: 0 0 18px rgba(0, 229, 255, 0.7);
-      margin-bottom: 12px;
-    }
-
-    header p {
-      color: var(--muted);
-      font-size: 1.1rem;
-    }
-
-    main {
-      width: min(1100px, 92%);
-      margin: auto;
-      padding-bottom: 50px;
-    }
-
-    section {
-      margin-bottom: 35px;
-    }
-
-    .hero-card,
-    .guide-card,
-    .demon-card {
-      background: rgba(23, 27, 61, 0.92);
-      border: 1px solid rgba(0, 229, 255, 0.2);
-      border-radius: 20px;
-      padding: 28px;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
-    }
-
-    .hero-card {
-      text-align: center;
-      border-color: var(--secondary);
-    }
-
-    .hero-card h2 {
-      color: var(--secondary);
-      margin-bottom: 10px;
-    }
-
-    h2 {
-      color: var(--primary);
-      margin-bottom: 18px;
-    }
-
-    h3 {
-      color: var(--success);
-      margin-bottom: 8px;
-    }
-
-    .guide-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-      gap: 18px;
-    }
-
-    .guide-card {
-      transition: 0.25s ease;
-    }
-
-    .guide-card:hover,
-    .demon-card:hover {
-      transform: translateY(-5px);
-      background: var(--card-light);
-    }
-
-    .icon {
-      font-size: 2rem;
-      margin-bottom: 8px;
-    }
-
-    .guide-card p {
-      color: var(--muted);
-    }
-
-    .demon-list {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 12px;
-      list-style: none;
-      counter-reset: demon-counter;
-    }
-
-    .demon-list li {
-      counter-increment: demon-counter;
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      background: #111533;
-      border: 1px solid rgba(255, 60, 172, 0.25);
-      border-radius: 12px;
-      padding: 14px 16px;
-      transition: 0.2s ease;
-    }
-
-    .demon-list li::before {
-      content: counter(demon-counter);
-      min-width: 34px;
-      height: 34px;
-      display: grid;
-      place-items: center;
-      border-radius: 50%;
-      background: linear-gradient(135deg, var(--secondary), #7d5cff);
-      color: white;
-      font-weight: bold;
-    }
-
-    .demon-list li:hover {
-      border-color: var(--primary);
-      transform: translateX(4px);
-    }
-
-    .note {
-      margin-top: 18px;
-      padding: 15px;
-      border-left: 4px solid #ffc857;
-      background: rgba(255, 200, 87, 0.1);
-      color: #ffe4a3;
-      border-radius: 8px;
-    }
-
-    .tips-button {
-      border: 0;
-      border-radius: 999px;
-      padding: 13px 22px;
-      color: #06101a;
-      background: var(--primary);
-      cursor: pointer;
-      font-weight: bold;
-      margin-top: 18px;
-      transition: 0.2s ease;
-    }
-
-    .tips-button:hover {
-      transform: scale(1.05);
-      box-shadow: 0 0 18px rgba(0, 229, 255, 0.6);
-    }
-
-    #tips {
-      display: none;
-      margin-top: 18px;
-      color: var(--muted);
-    }
-
-    #tips.show {
-      display: block;
-    }
-
-    footer {
-      text-align: center;
-      color: var(--muted);
-      padding: 25px 15px;
-      border-top: 1px solid rgba(255, 255, 255, 0.1);
-      font-size: 0.9rem;
-    }
-
-    @media (max-width: 600px) {
-      header {
-        padding-top: 45px;
-      }
-
-      .hero-card,
-      .guide-card,
-      .demon-card {
-        padding: 20px;
-      }
-    }
+    :root{--bg:#0b1024;--panel:#151c38;--panel2:#1b2447;--line:#35416a;--text:#f7f8ff;--muted:#b1bdd8;--cyan:#58e5ed;--yellow:#ffdc68;--pink:#ff79b0}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body,button{font-family:"Outfit",sans-serif}body{margin:0;background:var(--bg);color:var(--text);line-height:1.6}button{cursor:pointer}a{color:inherit;text-decoration:none}a:focus-visible,button:focus-visible,.playfield:focus-visible{outline:3px solid var(--yellow);outline-offset:4px} .container{width:min(1120px,calc(100% - 40px));margin:auto}
+    .site-header{border-bottom:1px solid #ffffff18;background:#0b1024e8}.header-inner{min-height:76px;display:flex;align-items:center;justify-content:space-between;gap:20px}.brand{display:flex;align-items:center;gap:12px;font-weight:800;font-size:18px;letter-spacing:-.03em}.brand-icon{width:34px;height:34px;display:grid;place-items:center;background:var(--yellow);color:#111831;border:3px solid #fff;border-radius:8px;transform:rotate(-8deg);box-shadow:4px 4px 0 #ff8f73}.brand-icon span{transform:rotate(8deg);font-size:19px;line-height:1}.nav{display:flex;gap:30px;color:#c6d0e9;font-weight:600;font-size:14px}.nav a:hover{color:var(--cyan)}
+    .hero{position:relative;overflow:hidden;padding:92px 0 96px;background:radial-gradient(circle at 80% 35%,#254d82 0,transparent 38%),radial-gradient(circle at 15% 75%,#37205c 0,transparent 36%),var(--bg)}.hero:before{content:"";position:absolute;inset:0;background-image:linear-gradient(#ffffff0b 1px,transparent 1px),linear-gradient(90deg,#ffffff0b 1px,transparent 1px);background-size:48px 48px;mask-image:linear-gradient(transparent,#000)}.hero-inner{position:relative;display:grid;grid-template-columns:1.1fr .9fr;align-items:center;gap:40px}.eyebrow{display:inline-flex;align-items:center;gap:8px;color:var(--cyan);font-size:12px;font-weight:800;letter-spacing:.16em;text-transform:uppercase}.eyebrow:before{content:"";width:7px;height:7px;border-radius:50%;background:var(--cyan);box-shadow:0 0 12px var(--cyan)}h1,h2,h3,p{margin-top:0}h1{font-size:clamp(48px,6vw,80px);line-height:1.02;letter-spacing:-.055em;margin:20px 0 24px;font-weight:800}h1 em{font-style:normal;color:var(--yellow)}.hero-copy p{max-width:550px;color:var(--muted);font-size:18px;margin-bottom:30px}.primary-btn{display:inline-flex;align-items:center;gap:10px;padding:14px 22px;background:var(--yellow);color:#111831;border-radius:12px;font-weight:800;box-shadow:0 6px 0 #b58634;transition:transform .2s,box-shadow .2s}.primary-btn:hover{transform:translateY(3px);box-shadow:0 3px 0 #b58634}.primary-btn svg{width:18px}
+    .hero-art{height:320px;position:relative;border-radius:26px;background:linear-gradient(150deg,#273f79,#151d42 60%,#252054);border:1px solid #7290c044;box-shadow:0 30px 70px #0006,inset 0 0 55px #71d7ef12;overflow:hidden}.hero-art:before{content:"";position:absolute;inset:0;background-image:linear-gradient(#ffffff0e 1px,transparent 1px),linear-gradient(90deg,#ffffff0e 1px,transparent 1px);background-size:36px 36px}.art-label{position:absolute;top:24px;left:26px;color:#d9e6ff;font-size:12px;font-weight:800;letter-spacing:.18em}.art-moon{position:absolute;width:96px;height:96px;border-radius:50%;background:#65dce94d;filter:blur(2px);top:44px;right:68px;box-shadow:0 0 65px #48dcef88}.art-ground{position:absolute;bottom:58px;left:0;right:0;height:9px;background:var(--cyan);box-shadow:0 0 20px var(--cyan)}.art-ground:after{content:"";position:absolute;top:9px;left:0;right:0;height:50px;background:repeating-linear-gradient(135deg,#54e5ed16 0 2px,transparent 2px 15px)}.art-cube{position:absolute;bottom:68px;left:23%;height:66px;width:66px;background:var(--yellow);border:5px solid #fff3bc;border-radius:9px;transform:rotate(-13deg);box-shadow:0 0 30px #ffe16e88,6px 8px 0 #de914d}.art-cube:before,.art-cube:after{content:"";position:absolute;top:19px;width:9px;height:9px;border-radius:2px;background:#273156}.art-cube:before{left:13px}.art-cube:after{right:13px}.art-spike{position:absolute;bottom:67px;left:65%;width:0;height:0;border-left:32px solid transparent;border-right:32px solid transparent;border-bottom:68px solid var(--pink);filter:drop-shadow(0 0 12px #ff79b088)}.art-spike.second{left:80%;border-left-width:25px;border-right-width:25px;border-bottom-width:52px}.art-ring{position:absolute;left:42%;top:28%;width:58px;height:58px;border:8px solid #a882ff;border-radius:50%;box-shadow:0 0 20px #aa8aff99}.art-spark{position:absolute;color:var(--cyan);font-size:30px;right:32px;top:22px}
+    section.content-section{padding:78px 0}.section-head{max-width:650px;margin-bottom:34px}.section-kicker{color:var(--cyan);font-size:12px;letter-spacing:.18em;font-weight:800;text-transform:uppercase;margin-bottom:10px}.section-head h2{font-size:clamp(32px,4vw,46px);letter-spacing:-.04em;line-height:1.12;margin-bottom:12px}.section-head p{color:var(--muted);margin:0}.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}.step{background:var(--panel);border:1px solid var(--line);border-radius:20px;padding:25px;min-height:230px}.step-num{display:inline-grid;place-items:center;width:42px;height:42px;border-radius:12px;background:#28375c;color:var(--cyan);font-weight:800;margin-bottom:24px}.step h3{font-size:19px;line-height:1.2;margin-bottom:9px}.step p{color:var(--muted);font-size:14px;margin:0}
+    .modes-section{background:#101732}.mode-layout{display:grid;grid-template-columns:280px 1fr;gap:20px}.mode-tabs{display:grid;gap:10px;align-content:start}.mode-tab{width:100%;text-align:left;border:1px solid var(--line);border-radius:13px;padding:17px 20px;background:var(--panel);color:var(--muted);font-weight:700}.mode-tab[aria-selected="true"]{background:#24445d;color:var(--cyan);border-color:var(--cyan)}.mode-detail{background:linear-gradient(120deg,#1d3154,#202449);border:1px solid #536b98;border-radius:20px;padding:36px;min-height:224px;display:flex;align-items:center;gap:30px}.mode-symbol{display:grid;place-items:center;flex:none;width:100px;height:100px;background:var(--yellow);color:#182044;border:5px solid #fff1b6;border-radius:19px;font-size:52px;font-weight:800;box-shadow:0 10px 0 #e19657}.mode-detail h3{font-size:27px;margin:0 0 8px}.mode-detail p{color:#d1dbed;margin:0;max-width:490px}
+    .bottom-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px}.tips-card,.practice-card{background:var(--panel);border:1px solid var(--line);border-radius:22px;padding:30px}.tips-card h2,.practice-card h2{font-size:28px;letter-spacing:-.03em;margin-bottom:20px}.tips-list{list-style:none;padding:0;margin:0;display:grid;gap:17px}.tips-list li{display:flex;gap:13px;color:#d4ddf0;font-size:15px}.tips-list svg{color:var(--cyan);flex:none;width:19px;height:19px;margin-top:3px}.practice-card>p{color:var(--muted);font-size:14px;margin-bottom:17px}.playfield{height:160px;position:relative;overflow:hidden;border:1px solid #58749a;border-radius:13px;background:linear-gradient(#202d55,#1b2547);cursor:pointer}.playfield:before{content:"";position:absolute;inset:0;background-image:linear-gradient(#ffffff09 1px,transparent 1px),linear-gradient(90deg,#ffffff09 1px,transparent 1px);background-size:25px 25px}.play-ground{position:absolute;bottom:22px;left:0;right:0;height:5px;background:var(--cyan)}.player{position:absolute;left:56px;bottom:27px;width:30px;height:30px;border-radius:5px;background:var(--yellow);border:3px solid #fff4b6}.obstacle{position:absolute;bottom:27px;left:100%;width:0;height:0;border-left:16px solid transparent;border-right:16px solid transparent;border-bottom:33px solid var(--pink)}.practice-meta{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:15px 0;color:var(--muted);font-size:13px}.practice-meta strong{color:var(--yellow)}.practice-controls{display:flex;gap:10px;flex-wrap:wrap}.small-btn{border:0;border-radius:10px;background:var(--cyan);color:#0b1a2b;font-weight:800;padding:11px 17px}.small-btn.secondary{background:#303d63;color:white}.small-btn:hover{filter:brightness(1.12)}.site-footer{border-top:1px solid #ffffff1a;padding:26px 0;color:#9aa9ca;font-size:13px}.footer-inner{display:flex;justify-content:space-between;gap:15px;flex-wrap:wrap}
+    .ranking-section{background:#101732;border-top:1px solid #ffffff12}.ranking-list{list-style:none;counter-reset:rank;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;padding:0;margin:0 0 24px}.ranking-list li{counter-increment:rank;display:flex;align-items:center;gap:18px;min-width:0;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px 18px;font-weight:700}.ranking-list li:before{content:counter(rank,decimal-leading-zero);display:grid;place-items:center;flex:none;width:42px;height:42px;border-radius:10px;background:#28375c;color:var(--cyan);font-weight:800}.ranking-note{color:var(--muted);font-size:14px;margin:0}.ranking-note a{color:var(--cyan);text-decoration:underline;text-underline-offset:3px}.ranking-note a:focus-visible{outline:3px solid var(--yellow)}@media(max-width:560px){.ranking-list{grid-template-columns:1fr}}
+    @media(max-width:800px){.hero-inner{grid-template-columns:1fr}.hero{padding:65px 0}.hero-art{max-width:590px;width:100%}.steps{grid-template-columns:repeat(2,1fr)}.bottom-grid{grid-template-columns:1fr}}@media(max-width:560px){.nav{gap:12px;font-size:12px}.brand{font-size:15px}.brand-icon{width:29px;height:29px}.hero-art{height:250px}.steps{grid-template-columns:1fr}.step{min-height:0}.mode-layout{grid-template-columns:1fr}.mode-tabs{grid-template-columns:repeat(3,1fr)}.mode-tab{text-align:center;padding:12px 5px;font-size:12px}.mode-detail{padding:24px;gap:18px}.mode-symbol{width:65px;height:65px;font-size:35px;box-shadow:0 6px 0 #e19657}.mode-detail h3{font-size:22px}.mode-detail p{font-size:14px}.content-section{padding:58px 0!important}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition-duration:.01ms!important;animation-duration:.01ms!important}}
   </style>
-</head>
-
-<body>
-  <header>
-    <h1>Geometry Dash</h1>
-    <p>Lompat, ikuti ritme, dan taklukkan level.</p>
+  <script src="/_sdk/db678f27f81c662d.data_sdk.js" type="text/javascript" integrity="sha512-OyPUH1HViXYG4RQ5cQz06Y4InjVa1ow+D/FqAv8TesKGTjJaGtijo27OuzEdne5pa6OSj17Cc+/EEZ80zZBt0Q=="></script>
+  <script src="/_sdk/fcf3d9ebf4ee9be8.editing_sdk.js" type="text/javascript" integrity="sha512-9KQhzxWBIYp5RiGynFbxTM5qrbMoTcgqNecAHzU4Di3yFWyDTV6tVHqkRinEyMbwjcgBmGFmstKv85ibYmbfDA=="></script>
+  <script src="/_sdk/3e1bd5755e8c31d7.resizing_sdk.js" type="text/javascript" integrity="sha512-g589XjRS+O3ZjxIHu94f7UXlzhfzfnx3ixKpmV4XWPsVOSgxKWWjxeRkhAEAd/Q8jH0b3vHBsgAEXkVWNwt4MA=="></script>
+ <style>@font-face{font-family:'YAHO2nVlg14,0';src:url('https://font-public.canva.com/YAHO2nVlg14/0/56487b86-b2f6-4fbd-9677-81f793b238ab6430.65bcc75a-132b-4343-bd9b-74c23f81279e.woff2') format('woff2'),url('https://font-public.canva.com/YAHO2nVlg14/0/fa7207f50b18414e8542f49eb4cc4e3817316034.d8012e75252518f7eaf3441e388b4239.woff') format('woff'),url('https://font-public.canva.com/YAHO2nVlg14/0/fa7207f50b18414e8542f49eb4cc4e3817316034.2c48b8dacd5a68fe4060e30bfc234add.otf') format('opentype');font-weight:500;font-style:normal;font-display:swap}@font-face{font-family:'YAHO2nVlg14,0';src:url('https://font-public.canva.com/YAHO2nVlg14/0/1a6c89e8-0b7c-43c0-95d4-f312713be2991477.057b04ce-db59-4774-a523-fc57747eb342.woff2') format('woff2'),url('https://font-public.canva.com/YAHO2nVlg14/0/0848065c20504125b0f793ac2edcd8c045476606.88d99b401b208992b5a75d47da23ca6e.woff') format('woff'),url('https://font-public.canva.com/YAHO2nVlg14/0/0848065c20504125b0f793ac2edcd8c045476606.0b2e035f79a9a26c0c606d7db0a3fea1.otf') format('opentype');font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:'YAHO2nVlg14,0';src:url('https://font-public.canva.com/YAHO2nVlg14/0/e089612a-dde0-48b2-9238-375afedb3e921284.be5f7630-3593-4d03-b7c0-4c323ce9ede1.woff2') format('woff2'),url('https://font-public.canva.com/YAHO2nVlg14/0/822ae49a7a384ae5bdcff8ada1d2195788321866.1aa1f4ad5a7147546bd15488855fa24c.woff') format('woff'),url('https://font-public.canva.com/YAHO2nVlg14/0/822ae49a7a384ae5bdcff8ada1d2195788321866.a6bdca4e9db48a9b214265a84262ff8e.otf') format('opentype');font-weight:800;font-style:normal;font-display:swap}@font-face{font-family:'YAHO2nVlg14,0';src:url('https://font-public.canva.com/YAHO2nVlg14/0/fc14459c-29fc-4ee4-a844-11eb0b5d59933172.1bacf07d-f629-40cc-a73c-b95539ed3489.woff2') format('woff2'),url('https://font-public.canva.com/YAHO2nVlg14/0/584bbb7f8e6f456f9a0379757ad3ff6786021400.78b363a16b2687b026d8fbaec84e5c7e.woff') format('woff'),url('https://font-public.canva.com/YAHO2nVlg14/0/584bbb7f8e6f456f9a0379757ad3ff6786021400.90fcdb2e17745245a3c4edf4b541dafe.otf') format('opentype');font-weight:300;font-style:normal;font-display:swap}@font-face{font-family:'YAHO2nVlg14,0';src:url('https://font-public.canva.com/YAHO2nVlg14/0/c371a782-5fba-4fda-8d4d-e54186bf7fbf9780.358aa941-c12f-4a5d-b1c9-f6893c98502a.woff2') format('woff2'),url('https://font-public.canva.com/YAHO2nVlg14/0/ff4c597a7dd3454c90dda4d01c3dd68881835966.78409c5ae403c0be56063387de654cad.woff') format('woff'),url('https://font-public.canva.com/YAHO2nVlg14/0/ff4c597a7dd3454c90dda4d01c3dd68881835966.c9d8a0af82dcb27191ca0efdc52b5f10.otf') format('opentype');font-weight:600;font-style:normal;font-display:swap}@font-face{font-family:'YAHO2nVlg14,0';src:url('https://font-public.canva.com/YAHO2nVlg14/0/9373c213-3b70-4d48-979e-32415a1d1f921698.df8a1c9d-21a7-469a-bd7b-e37f79e26a59.woff2') format('woff2'),url('https://font-public.canva.com/YAHO2nVlg14/0/b87e371caacc40dfb4e02c6b3560b4c015888271.099b72ccf092df73471c5ae5a561ada5.woff') format('woff'),url('https://font-public.canva.com/YAHO2nVlg14/0/b87e371caacc40dfb4e02c6b3560b4c015888271.cdaeabc7cde4730334301f64bf67e531.otf') format('opentype');font-weight:900;font-style:normal;font-display:swap}@font-face{font-family:'YAHO2nVlg14,0';src:url('https://font-public.canva.com/YAHO2nVlg14/0/0fb027bc-a8cc-471f-a6c9-79b06aadbf8e1359.be1c1cb0-1359-440c-a925-12a661665f32.woff2') format('woff2'),url('https://font-public.canva.com/YAHO2nVlg14/0/5515b2316100455e8f1419f945c1d95916079578.e641feaf97254a54cf8808786319e2d2.woff') format('woff'),url('https://font-public.canva.com/YAHO2nVlg14/0/5515b2316100455e8f1419f945c1d95916079578.f517bd8c72dd86a62eb56da4f75edb09.otf') format('opentype');font-weight:250;font-style:normal;font-display:swap}@font-face{font-family:'YAHO2nVlg14,0';src:url('https://font-public.canva.com/YAHO2nVlg14/0/06a446c5-65ef-4698-b5fa-5c63c0a2ddce5279.b7df81df-5217-4e2b-a160-2cc9d9c83367.woff2') format('woff2'),url('https://font-public.canva.com/YAHO2nVlg14/0/e5dd0c2ac7794c399fa1752296b484d810226875.81b64505c2e3b3b252f01752c56b0eed.woff') format('woff'),url('https://font-public.canva.com/YAHO2nVlg14/0/e5dd0c2ac7794c399fa1752296b484d810226875.66f93bed7191ce708243cbac5f8bd6c2.otf') format('opentype');font-weight:250;font-style:normal;font-display:swap}@font-face{font-family:'YAHO2nVlg14,0';src:url('https://font-public.canva.com/YAHO2nVlg14/0/775b1ce0-64f6-4960-96c4-f70b4c8017671856.112d3cd6-e498-498b-923d-2c84299ac7a5.woff2') format('woff2'),url('https://font-public.canva.com/YAHO2nVlg14/0/8935ec56217c41cdb2d676ad894edb4840280433.934551afd5f04cc423d4bc7c00a0e502.woff') format('woff'),url('https://font-public.canva.com/YAHO2nVlg14/0/8935ec56217c41cdb2d676ad894edb4840280433.64972935d7d8ac37f8b8830d161190f1.otf') format('opentype');font-weight:700;font-style:normal;font-display:swap}</style></head>
+ <body>
+  <header class="site-header canva-header">
+   <div class="container header-inner">
+    <a class="brand canva-link" href="#atas" aria-label="Kembali ke atas"><span class="brand-icon" aria-hidden="true"><span>◧</span></span><span>DASH GUIDE</span></a>
+    <nav class="nav canva-menu" aria-label="Navigasi utama">
+     <a class="canva-link" href="#cara-main">Cara Main</a><a class="canva-link" href="#mode">Mode</a><a class="canva-link" href="#tips">Tips</a><a class="canva-link" href="#ranking">Top 20</a>
+    </nav>
+   </div>
   </header>
-
-  <main>
-    <section class="hero-card">
-      <h2>Selamat Datang!</h2>
-      <p>
-        Geometry Dash adalah gim platformer berbasis ritme.
-        Kamu harus mengendalikan karakter dan melewati berbagai rintangan
-        sesuai dengan musik.
-      </p>
-
-      <button class="tips-button" onclick="toggleTips()">
-        Tampilkan Tips
-      </button>
-
-      <div id="tips">
-        <p>
-          Fokus pada ritme musik, hafalkan pola rintangan, dan gunakan
-          Practice Mode untuk mempelajari bagian level yang sulit.
-        </p>
+  <main id="atas">
+   <section class="hero canva-section" aria-labelledby="hero-title">
+    <div class="container hero-inner">
+     <div class="hero-copy">
+      <span class="eyebrow canva-tag">Panduan untuk pemula</span>
+      <h1 id="hero-title">
+       <canva-richtext style="display:contents">
+        <h1 style="color:#f7f8ff;text-align:start;direction:ltr;letter-spacing:-0.055em;font-size:80px;line-height:1.02;line-height:round(down, 1.02em, 1px);font-family:'YAHO2nVlg14,0'"><span style="font-weight:800;font-kerning:normal">Lompat.</span></h1>
+        <h1 style="color:#f7f8ff;text-align:start;direction:ltr;letter-spacing:-0.055em;font-size:80px;line-height:1.02;line-height:round(down, 1.02em, 1px);font-family:'YAHO2nVlg14,0'"><span style="font-weight:800;font-kerning:normal">Ikuti ritme.</span></h1>
+        <h1 style="color:#ffdc68;letter-spacing:-0.055em;font-size:80px;line-height:1.02;line-height:round(down, 1.02em, 1px);font-family:'YAHO2nVlg14,0'"><span style="font-weight:800;font-kerning:normal">Taklukkan level.</span></h1>
+        <div style="color:#ffdc68;text-align:start;direction:ltr;letter-spacing:-0.055em;font-size:80px;line-height:1.02;line-height:round(down, 1.02em, 1px);font-family:'YAHO2nVlg14,0'">
+         <br>
+        </div>
+       </canva-richtext></h1>
+      <p>Baru mulai main Geometry Dash? Pelajari kontrol dasar, kenali mode permainan, dan latih timing lompatanmu di sini.</p><a class="primary-btn canva-button" href="#cara-main">Mulai belajar <i data-lucide="arrow-right" aria-hidden="true"></i></a>
+     </div>
+     <div class="hero-art canva-panel" role="img" aria-label="Ilustrasi kubus kuning melompat menuju rintangan segitiga di lintasan neon">
+      <span class="art-label">READY? LET'S DASH!</span><span class="art-moon"></span><span class="art-ring"></span><span class="art-spark">✦</span><span class="art-ground"></span><span class="art-cube"></span><span class="art-spike"></span><span class="art-spike second"></span>
+     </div>
+    </div>
+   </section>
+   <section id="cara-main" class="content-section canva-section" aria-labelledby="steps-title">
+    <div class="container">
+     <div class="section-head">
+      <div class="section-kicker">
+       01 / Dasar permainan
       </div>
-    </section>
-
-    <section>
-      <h2>Cara Bermain Geometry Dash</h2>
-
-      <div class="guide-grid">
-        <article class="guide-card">
-          <div class="icon">🟦</div>
-          <h3>1. Lompat</h3>
-          <p>
-            Klik mouse, tekan tombol spasi, atau sentuh layar untuk membuat
-            karakter melompat.
-          </p>
-        </article>
-
-        <article class="guide-card">
-          <div class="icon">🎵</div>
-          <h3>2. Ikuti Ritme</h3>
-          <p>
-            Perhatikan musik dan gunakan iramanya untuk menentukan waktu
-            lompatan yang tepat.
-          </p>
-        </article>
-
-        <article class="guide-card">
-          <div class="icon">⚠️</div>
-          <h3>3. Hindari Rintangan</h3>
-          <p>
-            Hindari duri, balok, dan jebakan agar karakter tidak menabrak.
-          </p>
-        </article>
-
-        <article class="guide-card">
-          <div class="icon">🏆</div>
-          <h3>4. Latihan</h3>
-          <p>
-            Gunakan Practice Mode untuk memasang checkpoint dan mempelajari
-            bagian level yang sulit.
-          </p>
-        </article>
+      <h2 id="steps-title">Cara main dalam 4 langkah</h2>
+      <p>Tujuannya sederhana: capai akhir level tanpa menabrak rintangan. Tantangannya ada pada timing!</p>
+     </div>
+     <div class="steps">
+      <article class="step canva-card"><span class="step-num">01</span>
+       <h3>Pilih level</h3>
+       <p>Mulai dari level yang mudah untuk mengenal pola rintangan dan tempo musiknya.</p>
+      </article>
+      <article class="step canva-card"><span class="step-num">02</span>
+       <h3>Ketuk untuk lompat</h3>
+       <p>Ketuk layar, klik mouse, atau tekan Space untuk membuat kubus melompat.</p>
+      </article>
+      <article class="step canva-card"><span class="step-num">03</span>
+       <h3>Hindari rintangan</h3>
+       <p>Lewati duri dan celah. Perhatikan perubahan bentuk karena kontrolnya bisa berubah.</p>
+      </article>
+      <article class="step canva-card"><span class="step-num">04</span>
+       <h3>Coba lagi!</h3>
+       <p>Kalau gagal, kamu kembali ke awal. Hafalkan pola dan tingkatkan timing tiap percobaan.</p>
+      </article>
+     </div>
+    </div>
+   </section>
+   <section id="mode" class="content-section modes-section canva-section" aria-labelledby="modes-title">
+    <div class="container">
+     <div class="section-head">
+      <div class="section-kicker">
+       02 / Kenali kontrol
       </div>
-    </section>
-
-    <section class="demon-card">
-      <h2>Daftar Extreme Demon Top 20</h2>
-
-      <ol class="demon-list" id="demonList"></ol>
-
-      <p class="note">
-        Catatan: urutan Demonlist dapat berubah. Periksa Demonlist resmi
-        terbaru untuk mengetahui peringkat yang paling akurat.
-      </p>
-    </section>
+      <h2 id="modes-title">Bentuk berubah, cara main berubah</h2>
+      <p>Portal di dalam level dapat mengubah karaktermu. Pilih mode untuk melihat cara mengendalikannya.</p>
+     </div>
+     <div class="mode-layout">
+      <div class="mode-tabs canva-tabs" role="tablist" aria-label="Mode permainan">
+       <button id="tab-cube" class="mode-tab canva-button" role="tab" aria-selected="true" aria-controls="mode-panel" data-mode="cube">■ &nbsp; Cube</button> <button id="tab-ship" class="mode-tab canva-button" role="tab" aria-selected="false" aria-controls="mode-panel" data-mode="ship">➤ &nbsp; Ship</button> <button id="tab-ball" class="mode-tab canva-button" role="tab" aria-selected="false" aria-controls="mode-panel" data-mode="ball">● &nbsp; Ball</button>
+      </div>
+      <div id="mode-panel" class="mode-detail canva-panel" role="tabpanel" aria-labelledby="tab-cube">
+       <div id="mode-symbol" class="mode-symbol" aria-hidden="true">
+        ■
+       </div>
+       <div>
+        <h3 id="mode-name">Cube</h3>
+        <p id="mode-description">Ketuk atau tekan untuk melompat. Tahan untuk melakukan lompatan berulang saat mendarat. Ini adalah mode dasar yang paling sering kamu temui.</p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section id="tips" class="content-section canva-section" aria-labelledby="tips-title">
+    <div class="container bottom-grid">
+     <article class="tips-card canva-card">
+      <div class="section-kicker">
+       03 / Naik level
+      </div>
+      <h2 id="tips-title">Tips biar makin jago</h2>
+      <ul class="tips-list canva-list">
+       <li><i data-lucide="music-2" aria-hidden="true"></i><span><strong>Dengarkan musiknya.</strong> Banyak rintangan tersusun mengikuti ketukan.</span></li>
+       <li><i data-lucide="eye" aria-hidden="true"></i><span><strong>Lihat ke depan.</strong> Fokus pada rintangan berikutnya, bukan hanya pada kubusmu.</span></li>
+       <li><i data-lucide="rotate-ccw" aria-hidden="true"></i><span><strong>Gunakan Practice Mode.</strong> Checkpoint membantumu mempelajari bagian yang sulit.</span></li>
+       <li><i data-lucide="sparkles" aria-hidden="true"></i><span><strong>Jangan buru-buru.</strong> Ulangi level dan kenali polanya sedikit demi sedikit.</span></li>
+      </ul>
+     </article>
+     <article class="practice-card canva-card" aria-labelledby="practice-title">
+      <div class="section-kicker">
+       04 / Coba sekarang
+      </div>
+      <h2 id="practice-title">Latihan timing</h2>
+      <p>Lewati duri merah muda. Tekan tombol Lompat, klik area permainan, atau gunakan Space / ↑.</p>
+      <div id="playfield" class="playfield canva-panel" role="button" tabindex="0" aria-label="Area latihan. Tekan Space atau panah atas untuk melompat">
+       <div class="play-ground"></div>
+       <div id="player" class="player"></div>
+       <div id="obstacle" class="obstacle"></div>
+      </div>
+      <div class="practice-meta"><span id="game-status" role="status" aria-live="polite">Tekan Mulai untuk bermain</span><span>Skor: <strong id="score">0</strong></span>
+      </div>
+      <div class="practice-controls"><button id="start-btn" class="small-btn canva-button" type="button">Mulai</button><button id="jump-btn" class="small-btn secondary canva-button" type="button">Lompat</button>
+      </div>
+     </article>
+    </div>
+   </section>
+   <section id="ranking" class="content-section ranking-section canva-section" aria-labelledby="ranking-title">
+    <div class="container">
+     <div class="section-head">
+      <div class="section-kicker">
+       05 / Tantangan tertinggi
+      </div>
+      <h2 id="ranking-title">Top 20 Extreme Demon</h2>
+      <p>Daftar level Geometry Dash tersulit menurut Pointercrate Demonlist, diurutkan dari peringkat 1 hingga 20.</p>
+     </div>
+     <ol class="ranking-list canva-list" aria-label="Peringkat 1 sampai 20 Extreme Demon">
+      <li>GRIEF</li>
+      <li>Artemis 13</li>
+      <li>Society</li>
+      <li>Thinking Space II</li>
+      <li>Amethyst</li>
+      <li>Flamewall</li>
+      <li>Tidal Wave</li>
+      <li>Green Bullet</li>
+      <li>ORBIT</li>
+      <li>Antarctic Lights</li>
+      <li>Nullscapes</li>
+      <li>Quanteuse processing</li>
+      <li>BOOBAWAMBA</li>
+      <li>The Bloop</li>
+      <li>Every End</li>
+      <li>Ashley Wave Trials</li>
+      <li>Silent clubstep</li>
+      <li>Ultra Paracosm</li>
+      <li>Penumbral</li>
+      <li>andromeda</li>
+     </ol>
+     <p class="ranking-note">Peringkat dapat berubah. Periksa <a class="canva-link" href="https://pointercrate.com/demonlist/" target="_blank" rel="noopener noreferrer">Demonlist terbaru</a> untuk ranking resmi.</p>
+    </div>
+   </section>
   </main>
-
-  <footer>
-    <p>Website panduan Geometry Dash sederhana</p>
+  <footer class="site-footer canva-footer">
+   <div class="container footer-inner"><span>Dash Guide · Panduan sederhana untuk pemain baru</span><span>Terus latihan, nikmati ritmenya ✦</span>
+   </div>
   </footer>
-
   <script>
-    const extremeDemons = [
-      "Tidal Wave",
-      "Silent Clubstep",
-      "Avernus",
-      "Acheron",
-      "Slaughterhouse",
-      "Kyouki",
-      "Abyss of Darkness",
-      "Sakupen Circles",
-      "Firework",
-      "The Hallucination",
-      "Keres",
-      "Tunnel of Despair",
-      "Eyes in the Water",
-      "Silent Acropolis",
-      "Codependence",
-      "Shukketsu",
-      "Sonic Wave Infinity",
-      "LIMBO",
-      "The Golden",
-      "Zodiac"
-    ];
-
-    const demonList = document.getElementById("demonList");
-
-    extremeDemons.forEach((level) => {
-      const listItem = document.createElement("li");
-      listItem.textContent = level;
-      demonList.appendChild(listItem);
-    });
-
-    function toggleTips() {
-      const tips = document.getElementById("tips");
-      const button = document.querySelector(".tips-button");
-
-      tips.classList.toggle("show");
-
-      if (tips.classList.contains("show")) {
-        button.textContent = "Sembunyikan Tips";
-      } else {
-        button.textContent = "Tampilkan Tips";
-      }
+    lucide.createIcons();
+    const modes={
+      cube:{name:"Cube",symbol:"■",description:"Ketuk atau tekan untuk melompat. Tahan untuk melakukan lompatan berulang saat mendarat. Ini adalah mode dasar yang paling sering kamu temui."},
+      ship:{name:"Ship",symbol:"➤",description:"Tahan tombol untuk terbang naik, lalu lepaskan agar turun. Gunakan sentuhan pendek untuk menjaga kapal tetap berada di antara rintangan."},
+      ball:{name:"Ball",symbol:"●",description:"Setiap ketukan membalik arah gravitasi. Berpindahlah antara lantai dan langit-langit untuk melewati jalur yang sempit."}
+    };
+    document.querySelectorAll(".mode-tab").forEach(tab=>tab.addEventListener("click",()=>{
+      document.querySelectorAll(".mode-tab").forEach(t=>t.setAttribute("aria-selected",String(t===tab)));
+      const mode=modes[tab.dataset.mode];
+      document.getElementById("mode-panel").setAttribute("aria-labelledby",tab.id);
+      document.getElementById("mode-symbol").textContent=mode.symbol;
+      document.getElementById("mode-name").textContent=mode.name;
+      document.getElementById("mode-description").textContent=mode.description;
+    }));
+    const field=document.getElementById("playfield"),player=document.getElementById("player"),obstacle=document.getElementById("obstacle"),status=document.getElementById("game-status"),scoreEl=document.getElementById("score"),startBtn=document.getElementById("start-btn");
+    let running=false,score=0,x=0,y=0,velocity=0,last=0,raf=0,passed=false;
+    function render(){player.style.transform=`translateY(${-y}px)`;obstacle.style.left=x+"px"}
+    function start(){cancelAnimationFrame(raf);running=true;score=0;y=0;velocity=0;passed=false;x=field.clientWidth+20;scoreEl.textContent="0";status.textContent="Lompati durinya!";startBtn.textContent="Mulai ulang";last=performance.now();render();raf=requestAnimationFrame(tick)}
+    function jump(){if(running&&y<=1){velocity=11.5}}
+    function tick(now){
+      if(!running)return;
+      const dt=Math.min((now-last)/16.67,2);last=now;
+      velocity-=0.62*dt;y=Math.max(0,y+velocity*dt);if(y===0)velocity=0;
+      x-=3.7*dt;
+      if(x+32>56&&x<86&&y<29){running=false;status.textContent="Tertabrak! Tekan Mulai ulang untuk mencoba lagi.";startBtn.textContent="Coba lagi";render();return}
+      if(!passed&&x+32<56){passed=true;score++;scoreEl.textContent=score}
+      if(x<-40){x=field.clientWidth+Math.random()*75;passed=false}
+      render();raf=requestAnimationFrame(tick)
     }
+    startBtn.addEventListener("click",start);
+    document.getElementById("jump-btn").addEventListener("click",jump);
+    field.addEventListener("click",jump);
+    field.addEventListener("keydown",e=>{if(e.code==="Space"||e.code==="ArrowUp"){e.preventDefault();jump()}});
+    document.addEventListener("keydown",e=>{if((e.code==="Space"||e.code==="ArrowUp")&&running&&e.target.tagName!=="BUTTON"&&e.target!==field){e.preventDefault();jump()}});
+    render();
   </script>
-</body>
+ </body>
 </html>
-
-Simpan kode tersebut sebagai index.html, lalu buka file itu di browser. Nama dan urutan Extreme Demon di dalam array JavaScript bisa kamu ubah kapan saja.
